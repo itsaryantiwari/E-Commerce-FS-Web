@@ -172,9 +172,9 @@ yarn build
 
 ## ⚙️ Deployment
 
-Strapi gives you many possible deployment options for your project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
+Strapi provides numerous deployment options for a project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
 
-## 📚 Learn more about Strapi
+## 📚 If you want to Learn more about Strapi, read this official documentation.
 
 - [Resource center](https://strapi.io/resource-center) - Strapi resource center.
 - [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
@@ -182,7 +182,9 @@ Strapi gives you many possible deployment options for your project. Find the one
 - [Strapi blog](https://docs.strapi.io) - Official Strapi blog containing articles made by the Strapi team and the community.
 - [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
 
-Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
+or just 
+
+Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi)
 
 ---
 
@@ -192,10 +194,11 @@ This project is licensed under the MIT License — feel free to use, modify, or 
 ---
 
 ## 👨‍💻 About Me
-Hi, I’m **Aryaaman Raj Tiwari** ```“Developer by day, Clutcher by night.” 😄```, a full-stack developer turned Data Analyst and a gaming enthusiast. I love building real-world web apps with clean UI and smart backends. Whether it’s e-commerce platforms or an authentication server, I enjoy crafting projects that are both functional and fun.
+Hi, I’m **Aryaaman Raj Tiwari** ```Developer by day, Clutcher by night. 😄```, a student turned full-stack SDE turned Data Analyst and a gaming enthusiast. 
+I love building real-world web apps with clean UI and smart backends. Whether it’s e-commerce platforms or an authentication server, I enjoy crafting projects that are both functional and fun.
 
 🔧 Tech I work on this Project:
-JavaScript, React, Node.js, MongoDB, Express, Firebase, Tailwind CSS, Python, Git
+JavaScript, React, Node.js, MongoDB, Express, AWS, Cloudinary, Tailwind CSS, Python, Git
 
 🎮 When not coding:
 You’ll probably find me on STEAM or VSCode, exploring game mechanics, or designing some cool stuff.
