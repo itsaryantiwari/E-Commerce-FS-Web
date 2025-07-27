@@ -18,8 +18,7 @@ This is a full-featured **MERN stack (MongoDB, Express, React, Node.js)** e-comm
 - **MongoDB** with **Mongoose** for data modeling
 - **JWT** for authentication
 - **Stripe API** for secure payment processing
-- **Multer** for image uploads (optional)
-- **Cloudinary / AWS S3** (optional for image storage)
+- **Cloudinary, AWS S3** and **Multer** for image uploads
 
 ---
 
@@ -47,7 +46,7 @@ This is a full-featured **MERN stack (MongoDB, Express, React, Node.js)** e-comm
 ```
 🧙‍♂️ If the screenshots suddenly vanish like magic, don’t panic.
 Dr. Dumbledore is busy brewing some spells, and Hagrid and I are out playing with Fang.
-So, We’ll be right back! & fix this thing later...👍😒
+So, we’ll be right back! & fix this thing later...👍😒
 ```
 
 ---
