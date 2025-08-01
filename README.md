@@ -106,7 +106,7 @@ So, we’ll be right back! & fix this thing later...👍😒
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/itsaryantiwari/E-Commerce-FS-Web
-cd mern-ecommerce
+cd E-Commerce-FS-Web
 ```
 
 ---
